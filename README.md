@@ -20,4 +20,4 @@ Places you should edit:
 Contributors:  
 Franco, Francisco  
 Nguyen, Ken  
-Phelan, Michael  
+Phelan, Michael (R code)
